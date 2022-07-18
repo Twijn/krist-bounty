@@ -1,0 +1,22 @@
+{
+  "name": "krist-bounty",
+  "version": "1.0.0",
+  "description": "Item bounty system utilizing the Krist currency",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twijn/krist-bounty.git"
+  },
+  "author": "Twijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twijn/krist-bounty/issues"
+  },
+  "homepage": "https://github.com/Twijn/krist-bounty#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
